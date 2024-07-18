@@ -38,8 +38,7 @@
 ### 🚀💻 Currently Working On
 
 #
-<a href="https://github.com/Suplice/Calendar-App" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suplice&repo=Calendar-App&theme=gruvbox"></a>
-
+<a href="https://github.com/Suplice/TaskManagementApp" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suplice&repo=TaskManagementApp&theme=gruvbox"></a>
 <br>
 
 ### 💬 Contact Me
