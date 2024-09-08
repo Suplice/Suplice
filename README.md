@@ -6,9 +6,9 @@
 <br>
 
 ### About Me 💬
- ⚡ I'm 20 years old Informatics student and tech enthusiast, who loves to learn about new things.
+ ⚡ I'm 21 years old Informatics student and tech enthusiast, who loves to learn about new things.
  <br>
- 🏫 I'm currently learning .NET back-end development
+ 🏫 I'm currently learning Fullstack development
 <br>
 <br>
 <br>
@@ -39,6 +39,7 @@
 
 #
 <a href="https://github.com/Suplice/TaskManagementApp" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suplice&repo=TaskManagementApp&theme=gruvbox"></a>
+<a href="https://github.com/Suplice/AutoClicker" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suplice&repo=AutoClicker&theme=gruvbox"></a>
 <br>
 
 ### 💬 Contact Me
