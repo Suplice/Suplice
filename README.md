@@ -38,8 +38,9 @@
 ### 🚀💻 Currently Working On
 
 #
-<a href="https://github.com/Suplice/TaskManagementApp" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suplice&repo=TaskManagementApp&theme=gruvbox"></a>
-<a href="https://github.com/Suplice/AutoClicker" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suplice&repo=AutoClicker&theme=gruvbox"></a>
+<a href="https://github.com/Suplice/AutoClicker" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suplice&repo=AutoClicker&theme=gruvbox" width="50%">
+</a>
 <br>
 
 ### 💬 Contact Me
