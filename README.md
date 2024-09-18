@@ -38,8 +38,8 @@
 ### 🚀💻 Currently Working On
 
 #
-<a href="https://github.com/Suplice/AutoClicker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suplice&repo=AutoClicker&theme=gruvbox" width="50%">
+<a href="https://github.com/Suplice/Graph" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suplice&repo=Graph&theme=gruvbox" width="50%">
 </a>
 <br>
 
