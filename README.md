@@ -41,10 +41,13 @@
 
 <a href="https://github.com/suplice">
   <img height="180em" src="https://streak-stats.demolab.com?user=suplice&theme=react" alt="GitHub Streak" />
-
 </a>
+<br>
 
 <br>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=suplice&theme=react-dark"> <img>
+
+<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
