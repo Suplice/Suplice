@@ -24,6 +24,7 @@
   ![Express](https://img.shields.io/badge/node.js-333?style=flat&logo=Node.js&logoColor=white)
 - 📶 &nbsp;
   ![FireBase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=Firebase)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333?style=flat&logo=Supabase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
