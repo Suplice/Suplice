@@ -40,12 +40,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suplice&layout=compact&theme=react" />
 
-<h3> 📈 &nbsp;Commit Stats</h3>
 
-<a href="https://github.com/suplice">
-  <img height="180em" src="https://streak-stats.demolab.com?user=suplice&theme=react" alt="GitHub Streak" />
-</a>
-<br>
 
 <br>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suplice&theme=react-dark"> <img>
